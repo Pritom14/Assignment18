@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "53283057535",
+    "project_id": "eighteenthassignment"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53283057535:android:192f48bc8ab6a824",
+        "android_client_info": {
+          "package_name": "com.example.shaloin.eighteenthassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4crlGxJ0ueXyK0gJvCS2x6rFwcxN9GYE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-90217822-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
